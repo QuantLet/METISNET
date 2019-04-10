@@ -32,8 +32,10 @@ V(network)$label.cex = 1
 threshold = delete.edges(network, which(E(network)$weight < quantile(E(network)$weight, 0.7)))
 
 par(mar = c(0, 0, 0, 0))
+png('banking_network_without_centrality.png')
 plot.igraph(threshold, vertex.size = 30, edge.arrow.size = 0.2, 
             edge.curved = 0.2, layout = layout.circle(network))
+dev.off()
 
 # centrality scores
 # degree centrality
