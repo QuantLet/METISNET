@@ -1,0 +1,13 @@
+Name of QuantLet : METISNET_NNQR_centrality
+
+Published in : METIS
+
+Description : 'Plots the average risk spillover effects after thresholding, by only considering the 30% largest connections of the network, with various centrality scores attached to each bank'
+
+Keywords : quantile regression, neural networks, systemic risk, centrality measures, spillover effect
+
+See also : 'NNQR_CoVaR, NNQR_Heat, NNQR_SNRI, MNQR_Network, METISNET_NNQR_dyn_centrality'
+
+Authors : Georg Keilbar and Ya Qian
+
+Submitted : April 10 2019 by Ya Qian

@@ -1,5 +1,5 @@
 
-Name of QuantLet: METISNET-centralitycomparison
+Name of QuantLet: METISNET_centralitycomparison
 
 Published in: METIS
 

@@ -1,5 +1,5 @@
 
-Name of QuantLet: METISNET-centralitymeasures
+Name of QuantLet: METISNET_centralitymeasures
 
 Published in: METIS
 

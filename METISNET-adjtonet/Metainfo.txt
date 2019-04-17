@@ -1,5 +1,5 @@
 
-Name of QuantLet: METISNET-adjtonet
+Name of QuantLet: METISNET_adjtonet
 
 Published in: METIS
 

@@ -1,0 +1,13 @@
+Name of QuantLet : METISNET_NNQR_dyn_centrality
+
+Published in : METIS
+
+Description : 'Plots the dynamic centrality of risk spillover network of large banks, via thresholding by only considering the 30% largest connections of the network. Window size is 252 trading days and step is 22 trading days'
+
+Keywords : quantile regression, neural networks, systemic risk, centrality in time, spillover effect
+
+See also : 'NNQR_CoVaR, NNQR_Heat, NNQR_SNRI, MNQR_Network, METISNET_NNQR_centrality'
+
+Authors : Ya Qian
+
+Submitted : April 10 2019 by Ya Qian
