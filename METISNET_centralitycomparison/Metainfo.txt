@@ -9,7 +9,7 @@ Keywords: 'network, plot, comparison, centrality, Minnesota road network'
 
 Author: MathWorks
 
-Submitted: Ya Qian
+Submitted: 17.04.2019
 
 Datafile: minnesota.mat
 
