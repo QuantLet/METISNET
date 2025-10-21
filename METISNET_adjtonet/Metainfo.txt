@@ -9,7 +9,7 @@ Keywords: 'plot, network, adjacency matrix, directed, weighted'
 
 Author: Ya Qian
 
-Submitted: Ya Qian
+Submitted: 17.04.2019
 
 Input: Adjacency matrices
 
